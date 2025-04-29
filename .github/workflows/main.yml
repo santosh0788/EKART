@@ -36,4 +36,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: repo/flask-devops-app:v1
+          tags: santosh0788/cicd-docker:v1
